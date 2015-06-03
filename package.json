@@ -1,7 +1,7 @@
 {
-  "name": "mubsub-plus",
+  "name": "mopubsub",
   "version": "1.0.0",
-  "description": "Pub/sub for Node.js and MongoDB",
+  "description": "Pub/sub for Node.js and MongoDB. for of mubsub with updated dependencies",
   "homepage": "http://github.com/saintedlama/mubsub",
   "author": "Scott Nelson <scott@scttnlsn.com>",
   "main": "./lib/index",
